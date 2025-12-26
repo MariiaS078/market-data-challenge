@@ -77,16 +77,16 @@ The imbalance oscillates between negative and strongly positive values, with sev
 
 **Early September 1**
 
-- Imbalance remains negative (**~ −0.003 to −0.002**), indicating sell-side dominance
+- Imbalance remains negative **(~ −0.003 to −0.002)**, indicating sell-side dominance
 
 **Mid September 1 (06:00–12:00)**
 
-- Sudden reversal from negative to positive imbalance (**~ +0.0015**)
+- Sudden reversal from negative to positive imbalance **(~ +0.0015)**
 - The transition occurs almost instantaneously
 
 **September 2 – Early September 3**
 
-- Sustained positive imbalance (**~ +0.003 to +0.0045**), indicating prolonged buy-side pressure
+- Sustained positive imbalance **(~ +0.003 to +0.0045)**, indicating prolonged buy-side pressure
 
 **Mid September 3**
 
